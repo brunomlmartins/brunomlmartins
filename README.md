@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning react native
 - 💞️ I have a passion for programming, design and music
 - 📫 Check my website www.brunomartinsinf.com
+- 📚 Check my portfolio https://portfolio.brunomartinsinf.com
 
 <!---
 brunomlmartins/brunomlmartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
